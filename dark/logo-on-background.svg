@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="600" viewBox="0 0 1600 600" role="img" aria-labelledby="solumate-dark-logo-on-background-title solumate-dark-logo-on-background-description">
+<title id="solumate-dark-logo-on-background-title">Solumate V2 - dark logo-on-background</title>
+<desc id="solumate-dark-logo-on-background-description">Solumate V2: a central S monogram, open orbit and eight connection terminals. Lettering is outlined; no external fonts or images are required.</desc>
+<defs>
+  <linearGradient id="signal-dark" gradientUnits="userSpaceOnUse" x1="64" y1="40" x2="205" y2="223">
+    <stop stop-color="#16DDF0"/>
+    <stop offset="1" stop-color="#399DFF"/>
+  </linearGradient>
+  <mask id="core-s-dark" maskUnits="userSpaceOnUse" x="76" y="76" width="104" height="104">
+    <rect x="76" y="76" width="104" height="104" fill="white"/>
+    <path d="M149 104H119C101 104 101 128 119 128H137C155 128 155 152 137 152H107" fill="none" stroke="black" stroke-width="14" stroke-linecap="round"/>
+  </mask>
+</defs>
+<rect width="1600" height="600" fill="#081320"/><g transform="translate(0 92)"><g transform="translate(16 16) scale(1.5)">
+  <g fill="none" stroke="url(#signal-dark)" stroke-width="6.5" stroke-linecap="round"><path d="M128 62L128 41"/>
+<circle cx="128" cy="34" r="6" fill="url(#signal-dark)" stroke="none"/>
+<path d="M174.669 81.331L189.518 66.482"/>
+<circle cx="194.468" cy="61.532" r="6" fill="url(#signal-dark)" stroke="none"/>
+<path d="M194 128L215 128"/>
+<circle cx="222" cy="128" r="6" fill="url(#signal-dark)" stroke="none"/>
+<path d="M174.669 174.669L189.518 189.518"/>
+<circle cx="194.468" cy="194.468" r="6" fill="url(#signal-dark)" stroke="none"/>
+<path d="M128 194L128 215"/>
+<circle cx="128" cy="222" r="6" fill="url(#signal-dark)" stroke="none"/>
+<path d="M81.331 174.669L66.482 189.518"/>
+<circle cx="61.532" cy="194.468" r="6" fill="url(#signal-dark)" stroke="none"/>
+<path d="M62 128L41 128"/>
+<circle cx="34" cy="128" r="6" fill="url(#signal-dark)" stroke="none"/>
+<path d="M81.331 81.331L66.482 66.482"/>
+<circle cx="61.532" cy="61.532" r="6" fill="url(#signal-dark)" stroke="none"/></g>
+  <path d="M181.977 162.387A64 64 0 0 1 65.517 114.148 M74.023 93.613A64 64 0 0 1 190.483 141.852" fill="none" stroke="url(#signal-dark)" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="128" cy="128" r="45" fill="#F7FAFC" mask="url(#core-s-dark)"/>
+</g>
+<g aria-label="SOLUMATE" fill="#F7FAFC" transform="translate(466 275) scale(0.19 -0.19)">
+<path transform="translate(0 0)" d="M310 -14Q230 -14 168.5 14.5Q107 43 72 97Q37 151 37 229L37 255L156 255L156 229Q156 160 198 126Q240 92 310 92Q381 92 417 121Q453 150 453 196Q453 227 436 246.5Q419 266 386.5 278Q354 290 308 301L278 307Q209 323 158.5 347.5Q108 372 81 411Q54 450 54 513Q54 576 84 621Q114 666 169 690Q224 714 298 714Q372 714 430 689Q488 664 521.5 614Q555 564 555 489L555 456L436 456L436 489Q436 532 419 558Q402 584 371 596Q340 608 298 608Q236 608 204 584Q172 560 172 516Q172 488 186.5 468.5Q201 449 229.5 436.5Q258 424 301 415L331 408Q403 392 457 367.5Q511 343 541.5 303Q572 263 572 199Q572 136 539.5 88Q507 40 448.5 13Q390 -14 310 -14Z"/>
+<path transform="translate(626.171 0)" d="M337 -14Q207 -14 129.5 58.5Q52 131 52 267L52 433Q52 569 129.5 641.5Q207 714 337 714Q468 714 545 641.5Q622 569 622 433L622 267Q622 131 545 58.5Q468 -14 337 -14ZM337 94Q415 94 458.5 139.5Q502 185 502 263L502 437Q502 515 458.5 560.5Q415 606 337 606Q260 606 216.5 560.5Q173 515 173 437L173 263Q173 185 216.5 139.5Q260 94 337 94Z"/>
+<path transform="translate(1318.842 0)" d="M69 0L69 700L190 700L190 109L518 109L518 0Z"/>
+<path transform="translate(1861.363 0)" d="M335 -14Q251 -14 190.5 16.5Q130 47 97.5 105Q65 163 65 243L65 700L185 700L185 240Q185 170 224 132Q263 94 335 94Q408 94 446.5 132Q485 170 485 240L485 700L605 700L605 243Q605 163 573 105Q541 47 480 16.5Q419 -14 335 -14Z"/>
+<path transform="translate(2550.384 0)" d="M69 0L69 700L294 700L430 81L447 81L584 700L808 700L808 0L692 0L692 613L675 613L539 0L339 0L203 613L186 613L186 0Z"/>
+<path transform="translate(3446.606 0)" d="M20 0L212 700L421 700L613 0L489 0L447 160L186 160L144 0ZM214 270L419 270L325 625L308 625Z"/>
+<path transform="translate(4031.177 0)" d="M234 0L234 591L25 591L25 700L563 700L563 591L354 591L354 0Z"/>
+<path transform="translate(4637.598 0)" d="M69 0L69 700L515 700L515 591L190 591L190 407L487 407L487 298L190 298L190 109L520 109L520 0Z"/>
+</g></g>
+</svg>

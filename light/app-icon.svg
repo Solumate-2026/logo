@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="solumate-light-app-icon-title solumate-light-app-icon-description">
+<title id="solumate-light-app-icon-title">Solumate V2 - light app-icon</title>
+<desc id="solumate-light-app-icon-description">Solumate V2: a central S monogram, open orbit and eight connection terminals. Lettering is outlined; no external fonts or images are required.</desc>
+<defs>
+  <linearGradient id="signal-light" gradientUnits="userSpaceOnUse" x1="64" y1="40" x2="205" y2="223">
+    <stop stop-color="#008CA3"/>
+    <stop offset="1" stop-color="#0868BB"/>
+  </linearGradient>
+  <mask id="core-s-light" maskUnits="userSpaceOnUse" x="76" y="76" width="104" height="104">
+    <rect x="76" y="76" width="104" height="104" fill="white"/>
+    <path d="M149 104H119C101 104 101 128 119 128H137C155 128 155 152 137 152H107" fill="none" stroke="black" stroke-width="14" stroke-linecap="round"/>
+  </mask>
+</defs>
+<rect width="1024" height="1024" fill="#F4F7FA"/>
+<g transform="translate(48 48) scale(0.90625)"><g transform="translate(0 0) scale(4)">
+  <g fill="none" stroke="url(#signal-light)" stroke-width="6.5" stroke-linecap="round"><path d="M128 62L128 41"/>
+<circle cx="128" cy="34" r="6" fill="url(#signal-light)" stroke="none"/>
+<path d="M174.669 81.331L189.518 66.482"/>
+<circle cx="194.468" cy="61.532" r="6" fill="url(#signal-light)" stroke="none"/>
+<path d="M194 128L215 128"/>
+<circle cx="222" cy="128" r="6" fill="url(#signal-light)" stroke="none"/>
+<path d="M174.669 174.669L189.518 189.518"/>
+<circle cx="194.468" cy="194.468" r="6" fill="url(#signal-light)" stroke="none"/>
+<path d="M128 194L128 215"/>
+<circle cx="128" cy="222" r="6" fill="url(#signal-light)" stroke="none"/>
+<path d="M81.331 174.669L66.482 189.518"/>
+<circle cx="61.532" cy="194.468" r="6" fill="url(#signal-light)" stroke="none"/>
+<path d="M62 128L41 128"/>
+<circle cx="34" cy="128" r="6" fill="url(#signal-light)" stroke="none"/>
+<path d="M81.331 81.331L66.482 66.482"/>
+<circle cx="61.532" cy="61.532" r="6" fill="url(#signal-light)" stroke="none"/></g>
+  <path d="M181.977 162.387A64 64 0 0 1 65.517 114.148 M74.023 93.613A64 64 0 0 1 190.483 141.852" fill="none" stroke="url(#signal-light)" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="128" cy="128" r="45" fill="#0B1728" mask="url(#core-s-light)"/>
+</g></g>
+</svg>
